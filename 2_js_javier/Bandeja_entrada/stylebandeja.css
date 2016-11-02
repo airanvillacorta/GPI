@@ -1,0 +1,46 @@
+body{
+background: #eaeaea;;
+}
+
+.marge_exterior{
+  border: solid black 1px;
+  border-radius: 10px 10px 10px 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  width: 600px;
+  margin-left: 250px;
+}
+.bandeja_remitente{
+  background: white;
+  width: 250px;
+  margin-top: 20px;
+  border: solid black 1px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.bandeja_fecha{
+  background: white;
+  width: 250px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: solid black 1px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.bandeja_mensaje{
+  background: white;
+  width: 520px;
+  height: 270px;
+  margin-top: 20px;
+
+  margin-bottom: 20px;
+  border: solid black 1px;
+  padding-top: 10px;
+  padding-left: 20px;
+
+}
+.boton_eliminar{
+  width: 520px;
+
+  margin-bottom: 20px;
+}

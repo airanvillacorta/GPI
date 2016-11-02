@@ -1,0 +1,16 @@
+body{
+background: #eaeaea;;
+}
+
+.margen_exterior{
+  border: solid black 1px;
+  border-radius: 10px 10px 10px 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  width: 600px;
+  margin-left: 250px;
+}
+.cuadro{
+  margin-top: 20px;
+  padding-left: 20px;
+}

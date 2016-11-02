@@ -1,0 +1,9 @@
+body{
+background: #eaeaea;;
+}
+
+.cuadro{
+  border: solid black 1px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
